@@ -1,0 +1,8 @@
+baseURL = "https://hugo.openpdk-brasil.com.br"
+languageCode = "pt-br"
+title = "OpenPDK Brasil (Hugo)"
+theme = "docsy"
+
+[module]
+  [[module.imports]]
+    path = "github.com/google/docsy"
