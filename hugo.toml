@@ -1,0 +1,72 @@
+baseURL = "https://example.org/"
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
+title = "OpenPDK Brasil"
+theme = "docsy"
+
+[params]
+  description = "Promovendo ferramentas de código aberto e OpenPDK no Brasil."
+  logo = "/images/logo.png"
+
+[languages]
+  [languages.pt-br]
+    languageName = "Português (Brasil)"
+    title = "OpenPDK Brasil"
+    weight = 1
+    contentDir = "content/portuguese"
+
+    [[languages.pt-br.menu.main]]
+      name = "Início"
+      url = "/"
+      weight = 1
+
+    [[languages.pt-br.menu.main]]
+      name = "Sobre"
+      url = "/sobre/"
+      weight = 2
+
+    [[languages.pt-br.menu.main]]
+      name = "Ferramentas"
+      url = "/ferramentas/"
+      weight = 3
+
+    [[languages.pt-br.menu.main]]
+      name = "Comunidade"
+      url = "/comunidade/"
+      weight = 4
+
+    [[languages.pt-br.menu.main]]
+      name = "Blog"
+      url = "/blog/"
+      weight = 5
+
+  [languages.en]
+    languageName = "English"
+    title = "OpenPDK Brazil"
+    weight = 2
+    contentDir = "content/english"
+
+    [[languages.en.menu.main]]
+      name = "Home"
+      url = "/"
+      weight = 1
+
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 2
+
+    [[languages.en.menu.main]]
+      name = "Tools"
+      url = "/tools/"
+      weight = 3
+
+    [[languages.en.menu.main]]
+      name = "Community"
+      url = "/community/"
+      weight = 4
+
+    [[languages.en.menu.main]]
+      name = "Blog"
+      url = "/blog/"
+      weight = 5
