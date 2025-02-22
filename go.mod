@@ -1,6 +1,6 @@
 module openpdk-brasil
 
-go 1.23.6
+go 1.22
 
 require (
 	github.com/FortAwesome/Font-Awesome v4.7.0+incompatible // indirect
