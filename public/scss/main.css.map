@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/juanb/Documents/openpdk-brasil",
+	"sourceRoot": "C:/Users/juanb/OneDrive/Documentos/2)OpenPDK/websites/openpdk-site",
 	"sources": [
 		"themes/docsy/assets/scss/main.scss",
 		"themes/docsy/node_modules/bootstrap/scss/_functions.scss",
