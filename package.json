@@ -1,0 +1,25 @@
+{
+  "name": "openpdk-site-hugo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openpdk-brasil/openpdk-site-hugo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openpdk-brasil/openpdk-site-hugo/issues"
+  },
+  "homepage": "https://github.com/openpdk-brasil/openpdk-site-hugo#readme",
+  "description": "",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "postcss-cli": "^11.0.0"
+  }
+}

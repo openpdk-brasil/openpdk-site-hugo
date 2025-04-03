@@ -1,0 +1,31 @@
+baseURL = "https://openpdk-site-hugo.netlify.app/"
+languageCode = "pt-br"
+title = "OpenPDK Brasil"
+theme = "docsy"
+
+[module]
+  [[module.imports]]
+    path = "github.com/google/docsy"
+
+# Menu configuration
+[menu]
+  [[menu.main]]
+    name = "Início"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 2
+  [[menu.main]]
+    name = "Documentação"
+    url = "/documentacao/"
+    weight = 3
+  [[menu.main]]
+    name = "Notícias"
+    url = "/noticias/"
+    weight = 4
+  [[menu.main]]
+    name = "Contato"
+    url = "/contato/"
+    weight = 5

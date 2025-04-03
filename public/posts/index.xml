@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on OpenPDK Brasil</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on OpenPDK Brasil</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 01 Oct 2023 15:04:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeira Postagem</title>
+      <link>http://localhost:1313/posts/primeira-postagem/</link>
+      <pubDate>Sun, 01 Oct 2023 15:04:10 +0000</pubDate>
+      <guid>http://localhost:1313/posts/primeira-postagem/</guid>
+      <description>&lt;h1 id=&#34;minha-primeira-postagem&#34;&gt;Minha Primeira Postagem&lt;/h1&gt;&#xA;&lt;p&gt;Este é o conteúdo da minha primeira postagem no blog do OpenPDK Brasil.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Início on OpenPDK Brasil</title>
+    <link>https://openpdk-site-hugo.netlify.app/</link>
+    <description>Recent content in Início on OpenPDK Brasil</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 01 Oct 2023 15:04:10 +0000</lastBuildDate>
+    <atom:link href="https://openpdk-site-hugo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentação</title>
+      <link>https://openpdk-site-hugo.netlify.app/documentacao/</link>
+      <pubDate>Sun, 01 Oct 2023 15:04:10 +0000</pubDate>
+      <guid>https://openpdk-site-hugo.netlify.app/documentacao/</guid>
+      <description>&lt;h1 id=&#34;documentação-do-openpdk&#34;&gt;Documentação do OpenPDK&lt;/h1&gt;&#xA;&lt;p&gt;Aqui você encontrará toda a documentação necessária para começar a usar PDKs de código aberto.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Documentação</title>
+      <link>https://openpdk-site-hugo.netlify.app/noticias/</link>
+      <pubDate>Sun, 01 Oct 2023 15:04:10 +0000</pubDate>
+      <guid>https://openpdk-site-hugo.netlify.app/noticias/</guid>
+      <description>&lt;h1 id=&#34;documentação-do-openpdk&#34;&gt;Documentação do OpenPDK&lt;/h1&gt;&#xA;&lt;p&gt;efabless out&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notícias</title>
+      <link>https://openpdk-site-hugo.netlify.app/contato/</link>
+      <pubDate>Sun, 01 Oct 2023 15:04:10 +0000</pubDate>
+      <guid>https://openpdk-site-hugo.netlify.app/contato/</guid>
+      <description>&lt;h1 id=&#34;notícias-do-openpdk-brasil&#34;&gt;Notícias do OpenPDK Brasil&lt;/h1&gt;&#xA;&lt;p&gt;Fique por dentro das últimas notícias e atualizações sobre o OpenPDK no Brasil.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>https://openpdk-site-hugo.netlify.app/sobre/</link>
+      <pubDate>Sun, 01 Oct 2023 15:04:10 +0000</pubDate>
+      <guid>https://openpdk-site-hugo.netlify.app/sobre/</guid>
+      <description>&lt;h1 id=&#34;sobre-o-openpdk-brasil&#34;&gt;Sobre o OpenPDK Brasil&lt;/h1&gt;&#xA;&lt;p&gt;O OpenPDK Brasil é uma iniciativa sem fins lucrativos que visa promover o uso de PDKs de código aberto no Brasil.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
