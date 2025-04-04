@@ -29,3 +29,5 @@ theme = "docsy"
     name = "Contato"
     url = "/contato/"
     weight = 5
+[params]
+  ui.sidebar_menu = "docs"
