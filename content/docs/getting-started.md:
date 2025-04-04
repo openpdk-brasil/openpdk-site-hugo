@@ -1,0 +1,25 @@
+---
+title: "Primeiros Passos"
+linkTitle: "Getting Started"
+weight: 10
+menu:
+  docs:
+    parent: ""
+---
+
+Esta seção ajuda você a começar rapidamente com o Open PDK Brasil.
+
+## Instalação
+
+Instruções de instalação do ambiente, ferramentas e repositórios.
+
+## Estrutura do Projeto
+
+- `content/`: páginas do site
+- `static/`: arquivos estáticos (CSS, imagens, etc.)
+- `themes/docsy/`: tema visual baseado em Docsy
+
+## Próximos passos
+
+- Leia a [Documentação Técnica](../) completa
+- Explore os [repositórios no GitHub](https://github.com/openpdk-brasil)
