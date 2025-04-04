@@ -6,9 +6,9 @@ menu:
     weight: 10
 ---
 
-{{< lead >}}
+# Open PDK Brasil
+
 O **Open PDK Brasil** é uma iniciativa colaborativa para democratizar o acesso ao design de circuitos integrados, promovendo o uso de *Process Design Kits* abertos e ferramentas *open-source*.
-{{< /lead >}}
 
 ---
 
@@ -20,20 +20,14 @@ Construir uma comunidade técnica sólida, capaz de desenvolver, validar e compa
 
 ## 🧭 Nossos Princípios
 
-{{< columns >}}
-### 🔓 Abertura
+### 🔓 Abertura  
 Todo o conhecimento técnico e material compartilhado é aberto e acessível.
 
----
-
-### 🤝 Colaboração
+### 🤝 Colaboração  
 Fomentamos a cooperação entre universidades, centros de pesquisa, indústria e governo.
 
----
-
-### 📚 Educação
+### 📚 Educação  
 Promovemos formações e materiais didáticos para capacitar a próxima geração de designers de circuitos.
-{{< /columns >}}
 
 ---
 
