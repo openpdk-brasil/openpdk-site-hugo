@@ -19,7 +19,7 @@ theme = "docsy"
     weight = 2
   [[menu.main]]
     name = "Documentação"
-    url = "/documentacao/"
+    url = "/docs/"
     weight = 3
   [[menu.main]]
     name = "Notícias"
